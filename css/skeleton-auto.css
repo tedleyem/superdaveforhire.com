@@ -122,6 +122,15 @@ p {
   margin-top: 0;
 }
 
+/* Lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ul
+{
+  display:inline-flex;  
+  list-style:none;
+  text-align:center;
+  padding: 5px;
+}
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
